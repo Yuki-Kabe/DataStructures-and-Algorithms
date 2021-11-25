@@ -1,3 +1,4 @@
  yahho
 aiueo
 kakikukeko
+gatihomo
