@@ -1,1 +1,3 @@
  yahho
+aiueo
+kakikukeko
