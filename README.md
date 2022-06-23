@@ -1,4 +1,2 @@
- yahho
-aiueo
-kakikukeko
-gatihomo
+けんちょん本コード
+Pythonで書く
