@@ -1,8 +1,9 @@
 import bisect
 
 N, M = map(int, input().split())
-P = [0] + [int(input()) for _ in range(N)]
+P = [int(input()) for _ in range(N)]
 
+P.append(0)
 P = [i + j for i in P for j in P]
 P.sort()
 
@@ -18,5 +19,5 @@ print(ans)
 
 
 # Problem: https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c
-# Submit: https://atcoder.jp/contests/joi2008ho/submissions/41065348
+# Submit: https://atcoder.jp/contests/joi2008ho/submissions/41065517
 # Keyword: 半分全列挙
